@@ -1,6 +1,6 @@
 # Easy TPA6130A2
 
-Very simple initialisation of the TPA6130A2 headphones amplifier
+Very simple initialisation of the TPA6130A2 headphones amplifier for Arduino IDE
  v1.00 - 2023 Sjef Verhoeven PE5PVB
    
   
